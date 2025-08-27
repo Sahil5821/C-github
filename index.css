@@ -1,0 +1,21 @@
+
+.sticky{
+    position: sticky;
+    margin-top: 0px;
+}
+.color{
+    background-color: rgb(0, 255, 251);
+}
+.fixed{
+    align-items: center;
+    position:fixed;
+ margin-top: 0px;
+    
+} 
+
+.btn{
+    background-color:aqua;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 90px;
+}
